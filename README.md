@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-Tool-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subnetting-V4-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-00aa00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/USERNAME/network-subnetting-calculator?style=social" />
+</p>
+
 # 🕶️ Network Subnetting Calculator 
 
 
