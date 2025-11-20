@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/USERNAME/network-subnetting-calculator?style=social" />
+  <img src="https://img.shields.io/github/stars/alan18-5/network-subnetting-calculator?style=social" />
 </p>
 
 # 🕶️ Network Subnetting Calculator 
